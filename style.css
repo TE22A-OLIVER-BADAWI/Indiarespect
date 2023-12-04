@@ -1,0 +1,12 @@
+header,nav,article,main,footer{border: 5px solid black;
+border-radius: 3px; margin: 5px;}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    font-size: calc(1.5rem+ 3vw);
+}
+h2{font-size: calc(1.3rem+3vw);}
+h3{ }
